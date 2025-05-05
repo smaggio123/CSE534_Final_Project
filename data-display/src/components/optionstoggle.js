@@ -6,6 +6,8 @@ const OptionsToggle = ({ hasCategory, lossHandler, delayHandler, bandwidthHandle
     let [bandwidth, setBandwidth] = useState("10Mbps");
     let [category, setCategory] = useState("loss");
 
+    let id = Math.random();
+
     const handleLossChange = (e) => {
         setLoss(e.target.value);
         lossHandler(e.target.value);
@@ -28,7 +30,7 @@ const OptionsToggle = ({ hasCategory, lossHandler, delayHandler, bandwidthHandle
 
     useEffect(() => {
         if(!hasCategory) {
-            document.getElementById("category").style.display = 'none';
+            document.getElementById("category" + id).style.display = 'none';
         }
     });
     return (
@@ -57,7 +59,7 @@ const OptionsToggle = ({ hasCategory, lossHandler, delayHandler, bandwidthHandle
                     <option value="None">None</option>
                 </select>
             </div>
-            <div id="category">
+            <div id={"category" + id}>
                 <h3>Category</h3>
                 <select value={category} onChange={handleCategoryChange}>
                     <option value="loss">Loss</option>
