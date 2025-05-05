@@ -33,12 +33,16 @@ const Scatterplot = ({ path }) => {
       "SERVER_LOSS_2%,DELAY_None,BW_10Mbps": require.context("../data/Server/SERVER_LOSS_2%,DELAY_None,BW_10Mbps", false, /\.json$/),
       "SERVER_LOSS_2%,DELAY_None,BW_50Mbps": require.context("../data/Server/SERVER_LOSS_2%,DELAY_None,BW_50Mbps", false, /\.json$/),
       "SERVER_LOSS_2%,DELAY_None,BW_None": require.context("../data/Server/SERVER_LOSS_2%,DELAY_None,BW_None", false, /\.json$/),
-  };
+    };
     const context = contextMap[path];
     if (!context) return;
 
     const files = context.keys();
-    const rawData = files.flatMap(file => context(file));
+    const rawData = files.flatMap(file => {
+      const fileData = context(file);
+      const fileLabel = file.replace("./", "").slice(0, 4);
+      return fileData.map(d => ({ ...d, _source: fileLabel }));
+    });
     if (!rawData.length) return;
 
     const width = 928;
@@ -57,17 +61,18 @@ const Scatterplot = ({ path }) => {
 
     const y = x.map(scale => scale.copy().range([size - padding / 2, padding / 2]));
 
+    const sources = Array.from(new Set(rawData.map(d => d._source)));
     const color = d3.scaleOrdinal()
-      .domain(rawData.map(d => d.species))
+      .domain(sources)
       .range(d3.schemeCategory10);
 
     const axisx = d3.axisBottom().ticks(6).tickSize(size * columns.length);
     const axisy = d3.axisLeft().ticks(6).tickSize(-size * columns.length);
 
     const svg = d3.create("svg")
-      .attr("width", width)
+      .attr("width", width + 150)
       .attr("height", height)
-      .attr("viewBox", [-padding, 0, width, height]);
+      .attr("viewBox", [-padding, 0, width + 150, height]);
 
     svg.append("style").text(`circle.hidden { fill: #000; fill-opacity: 1; r: 1px; }`);
 
@@ -115,7 +120,7 @@ const Scatterplot = ({ path }) => {
         .attr("cy", d => y[j](d[columns[j]]))
         .attr("r", 3.5)
         .attr("fill-opacity", 0.7)
-        .attr("fill", d => color(d.species));
+        .attr("fill", d => color(d._source));
     });
 
     svg.append("g")
@@ -129,6 +134,22 @@ const Scatterplot = ({ path }) => {
       .attr("y", padding)
       .attr("dy", ".71em")
       .text(d => d);
+
+    const legend = svg.append("g")
+      .attr("transform", `translate(${width + 10},${padding})`)
+      .style("font", "10px sans-serif");
+
+    sources.forEach((source, i) => {
+      const g = legend.append("g").attr("transform", `translate(0,${i * 20})`);
+      g.append("rect")
+        .attr("width", 10)
+        .attr("height", 10)
+        .attr("fill", color(source));
+      g.append("text")
+        .attr("x", 15)
+        .attr("y", 9)
+        .text(source);
+    });
 
     chartRef.current.innerHTML = "";
     chartRef.current.appendChild(svg.node());
