@@ -1,0 +1,2812 @@
+[
+  {
+    "interval": 1,
+    "transfer_MB": 107,
+    "bitrate_Mbps": 897
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 98.6,
+    "bitrate_Mbps": 826
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 64.2,
+    "bitrate_Mbps": 538
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 94,
+    "bitrate_Mbps": 790
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 99.4,
+    "bitrate_Mbps": 833
+  },
+  {
+    "interval": 1.0099999999999998,
+    "transfer_MB": 68.6,
+    "bitrate_Mbps": 574
+  },
+  {
+    "interval": 0.9900000000000002,
+    "transfer_MB": 85.2,
+    "bitrate_Mbps": 716
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 77.2,
+    "bitrate_Mbps": 648
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 76.2,
+    "bitrate_Mbps": 641
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 104,
+    "bitrate_Mbps": 870
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 76.4,
+    "bitrate_Mbps": 641
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 92.4,
+    "bitrate_Mbps": 775
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 95.2,
+    "bitrate_Mbps": 799
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 96.4,
+    "bitrate_Mbps": 808
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 84.1,
+    "bitrate_Mbps": 705
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 57.1,
+    "bitrate_Mbps": 480
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 43.6,
+    "bitrate_Mbps": 366
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 65.5,
+    "bitrate_Mbps": 550
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87,
+    "bitrate_Mbps": 730
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87.8,
+    "bitrate_Mbps": 736
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 77,
+    "bitrate_Mbps": 646
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87.4,
+    "bitrate_Mbps": 733
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 82.5,
+    "bitrate_Mbps": 692
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 99.6,
+    "bitrate_Mbps": 836
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 90.9,
+    "bitrate_Mbps": 763
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87,
+    "bitrate_Mbps": 730
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 69,
+    "bitrate_Mbps": 579
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 78.2,
+    "bitrate_Mbps": 656
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 64,
+    "bitrate_Mbps": 537
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 96.8,
+    "bitrate_Mbps": 812
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 91.5,
+    "bitrate_Mbps": 768
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 57.5,
+    "bitrate_Mbps": 482
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 83.8,
+    "bitrate_Mbps": 703
+  },
+  {
+    "interval": 1.009999999999998,
+    "transfer_MB": 68.6,
+    "bitrate_Mbps": 571
+  },
+  {
+    "interval": 0.990000000000002,
+    "transfer_MB": 89.1,
+    "bitrate_Mbps": 754
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 80.2,
+    "bitrate_Mbps": 673
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 55.6,
+    "bitrate_Mbps": 467
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 76.1,
+    "bitrate_Mbps": 639
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 65.2,
+    "bitrate_Mbps": 547
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 75.5,
+    "bitrate_Mbps": 633
+  },
+  {
+    "interval": 1.1000000000000014,
+    "transfer_MB": 43.8,
+    "bitrate_Mbps": 333
+  },
+  {
+    "interval": 0.8999999999999986,
+    "transfer_MB": 68.2,
+    "bitrate_Mbps": 638
+  },
+  {
+    "interval": 1.0799999999999983,
+    "transfer_MB": 50.2,
+    "bitrate_Mbps": 389
+  },
+  {
+    "interval": 1.0100000000000051,
+    "transfer_MB": 67.6,
+    "bitrate_Mbps": 564
+  },
+  {
+    "interval": 0.9099999999999966,
+    "transfer_MB": 81.8,
+    "bitrate_Mbps": 753
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 76.9,
+    "bitrate_Mbps": 644
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 82.5,
+    "bitrate_Mbps": 694
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 82.2,
+    "bitrate_Mbps": 690
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 83.8,
+    "bitrate_Mbps": 703
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 99.9,
+    "bitrate_Mbps": 838
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 78.5,
+    "bitrate_Mbps": 659
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 80.8,
+    "bitrate_Mbps": 677
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 89.6,
+    "bitrate_Mbps": 752
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 80.1,
+    "bitrate_Mbps": 672
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 69.1,
+    "bitrate_Mbps": 580
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 111,
+    "bitrate_Mbps": 933
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 75,
+    "bitrate_Mbps": 629
+  },
+  {
+    "interval": 1.009999999999998,
+    "transfer_MB": 92,
+    "bitrate_Mbps": 761
+  },
+  {
+    "interval": 0.990000000000002,
+    "transfer_MB": 56.5,
+    "bitrate_Mbps": 481
+  },
+  {
+    "interval": 1.1299999999999955,
+    "transfer_MB": 97.2,
+    "bitrate_Mbps": 721
+  },
+  {
+    "interval": 0.8700000000000045,
+    "transfer_MB": 65.4,
+    "bitrate_Mbps": 632
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 77.6,
+    "bitrate_Mbps": 651
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 91.9,
+    "bitrate_Mbps": 771
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 66.4,
+    "bitrate_Mbps": 557
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 93.2,
+    "bitrate_Mbps": 782
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 93.1,
+    "bitrate_Mbps": 781
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 72,
+    "bitrate_Mbps": 604
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87.1,
+    "bitrate_Mbps": 731
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 44.5,
+    "bitrate_Mbps": 373
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 66.6,
+    "bitrate_Mbps": 559
+  },
+  {
+    "interval": 1.1700000000000017,
+    "transfer_MB": 70.9,
+    "bitrate_Mbps": 507
+  },
+  {
+    "interval": 0.8299999999999983,
+    "transfer_MB": 69,
+    "bitrate_Mbps": 700
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87.9,
+    "bitrate_Mbps": 737
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 81.6,
+    "bitrate_Mbps": 685
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 74.9,
+    "bitrate_Mbps": 628
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 82.5,
+    "bitrate_Mbps": 692
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 67.9,
+    "bitrate_Mbps": 569
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 94.4,
+    "bitrate_Mbps": 792
+  },
+  {
+    "interval": 1.0100000000000051,
+    "transfer_MB": 80.4,
+    "bitrate_Mbps": 670
+  },
+  {
+    "interval": 0.9899999999999949,
+    "transfer_MB": 98.2,
+    "bitrate_Mbps": 829
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 104,
+    "bitrate_Mbps": 873
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 86.1,
+    "bitrate_Mbps": 723
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 77.6,
+    "bitrate_Mbps": 651
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 98,
+    "bitrate_Mbps": 822
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 118,
+    "bitrate_Mbps": 991
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 114,
+    "bitrate_Mbps": 954
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 111,
+    "bitrate_Mbps": 934
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 112,
+    "bitrate_Mbps": 944
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 108,
+    "bitrate_Mbps": 903
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 65.5,
+    "bitrate_Mbps": 549
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 76.4,
+    "bitrate_Mbps": 641
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87.2,
+    "bitrate_Mbps": 732
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 84.1,
+    "bitrate_Mbps": 706
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 84.9,
+    "bitrate_Mbps": 712
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 78.8,
+    "bitrate_Mbps": 661
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 83.2,
+    "bitrate_Mbps": 699
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87.1,
+    "bitrate_Mbps": 731
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 93.2,
+    "bitrate_Mbps": 782
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 83.9,
+    "bitrate_Mbps": 704
+  },
+  {
+    "interval": 1.0600000000000023,
+    "transfer_MB": 93.9,
+    "bitrate_Mbps": 745
+  },
+  {
+    "interval": 0.9399999999999977,
+    "transfer_MB": 56.9,
+    "bitrate_Mbps": 506
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 80.8,
+    "bitrate_Mbps": 677
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 72.6,
+    "bitrate_Mbps": 610
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 97.5,
+    "bitrate_Mbps": 818
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 103,
+    "bitrate_Mbps": 866
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 96.8,
+    "bitrate_Mbps": 812
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 90,
+    "bitrate_Mbps": 755
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 46.9,
+    "bitrate_Mbps": 393
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 86,
+    "bitrate_Mbps": 722
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 68.5,
+    "bitrate_Mbps": 574
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 57.1,
+    "bitrate_Mbps": 479
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 70.5,
+    "bitrate_Mbps": 591
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 63.4,
+    "bitrate_Mbps": 532
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 90.6,
+    "bitrate_Mbps": 760
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 84.6,
+    "bitrate_Mbps": 710
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 77.9,
+    "bitrate_Mbps": 653
+  },
+  {
+    "interval": 1.0300000000000011,
+    "transfer_MB": 76.9,
+    "bitrate_Mbps": 624
+  },
+  {
+    "interval": 0.9699999999999989,
+    "transfer_MB": 79.4,
+    "bitrate_Mbps": 688
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 79.4,
+    "bitrate_Mbps": 666
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 78.9,
+    "bitrate_Mbps": 661
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 61.4,
+    "bitrate_Mbps": 513
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 88.5,
+    "bitrate_Mbps": 745
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 64.6,
+    "bitrate_Mbps": 542
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 42.4,
+    "bitrate_Mbps": 355
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 81.2,
+    "bitrate_Mbps": 682
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 85.9,
+    "bitrate_Mbps": 720
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 61.6,
+    "bitrate_Mbps": 516
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 64.2,
+    "bitrate_Mbps": 540
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 95.9,
+    "bitrate_Mbps": 804
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87.5,
+    "bitrate_Mbps": 734
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 116,
+    "bitrate_Mbps": 971
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 111,
+    "bitrate_Mbps": 928
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 97.2,
+    "bitrate_Mbps": 814
+  },
+  {
+    "interval": 1.1100000000000136,
+    "transfer_MB": 81.2,
+    "bitrate_Mbps": 617
+  },
+  {
+    "interval": 0.8899999999999864,
+    "transfer_MB": 62.1,
+    "bitrate_Mbps": 583
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 89.6,
+    "bitrate_Mbps": 752
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 79.6,
+    "bitrate_Mbps": 668
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 74.2,
+    "bitrate_Mbps": 623
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 92.1,
+    "bitrate_Mbps": 773
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 92.5,
+    "bitrate_Mbps": 775
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 52.9,
+    "bitrate_Mbps": 444
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 83.5,
+    "bitrate_Mbps": 696
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 87.2,
+    "bitrate_Mbps": 737
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 86.9,
+    "bitrate_Mbps": 729
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 70.1,
+    "bitrate_Mbps": 588
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 88.1,
+    "bitrate_Mbps": 740
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87.9,
+    "bitrate_Mbps": 737
+  },
+  {
+    "interval": 1.0600000000000023,
+    "transfer_MB": 74.1,
+    "bitrate_Mbps": 588
+  },
+  {
+    "interval": 0.9499999999999886,
+    "transfer_MB": 58,
+    "bitrate_Mbps": 514
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 90.8,
+    "bitrate_Mbps": 766
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 83.2,
+    "bitrate_Mbps": 698
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 76.5,
+    "bitrate_Mbps": 642
+  },
+  {
+    "interval": 1.1100000000000136,
+    "transfer_MB": 47.6,
+    "bitrate_Mbps": 359
+  },
+  {
+    "interval": 0.8899999999999864,
+    "transfer_MB": 79.9,
+    "bitrate_Mbps": 756
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 95,
+    "bitrate_Mbps": 797
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 86.4,
+    "bitrate_Mbps": 725
+  },
+  {
+    "interval": 1.1200000000000045,
+    "transfer_MB": 60.2,
+    "bitrate_Mbps": 452
+  },
+  {
+    "interval": 0.8799999999999955,
+    "transfer_MB": 58.1,
+    "bitrate_Mbps": 554
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 85.1,
+    "bitrate_Mbps": 714
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 84.2,
+    "bitrate_Mbps": 706
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 69,
+    "bitrate_Mbps": 579
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 80.4,
+    "bitrate_Mbps": 674
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 79.4,
+    "bitrate_Mbps": 665
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 98.8,
+    "bitrate_Mbps": 828
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 83.8,
+    "bitrate_Mbps": 695
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 56,
+    "bitrate_Mbps": 475
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 73.4,
+    "bitrate_Mbps": 615
+  },
+  {
+    "interval": 1.1100000000000136,
+    "transfer_MB": 88.5,
+    "bitrate_Mbps": 672
+  },
+  {
+    "interval": 0.8899999999999864,
+    "transfer_MB": 80.9,
+    "bitrate_Mbps": 759
+  },
+  {
+    "interval": 1.0800000000000125,
+    "transfer_MB": 71.4,
+    "bitrate_Mbps": 556
+  },
+  {
+    "interval": 0.9199999999999875,
+    "transfer_MB": 67.1,
+    "bitrate_Mbps": 610
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 100,
+    "bitrate_Mbps": 840
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 101,
+    "bitrate_Mbps": 850
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 85.9,
+    "bitrate_Mbps": 720
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 82.4,
+    "bitrate_Mbps": 691
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 95.5,
+    "bitrate_Mbps": 801
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 65.9,
+    "bitrate_Mbps": 552
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 74,
+    "bitrate_Mbps": 621
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 80,
+    "bitrate_Mbps": 671
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 100,
+    "bitrate_Mbps": 841
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 81.6,
+    "bitrate_Mbps": 684
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 69.8,
+    "bitrate_Mbps": 584
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 93.6,
+    "bitrate_Mbps": 788
+  },
+  {
+    "interval": 1.039999999999992,
+    "transfer_MB": 54.1,
+    "bitrate_Mbps": 439
+  },
+  {
+    "interval": 0.960000000000008,
+    "transfer_MB": 94,
+    "bitrate_Mbps": 817
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 108,
+    "bitrate_Mbps": 904
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 98,
+    "bitrate_Mbps": 822
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 69.4,
+    "bitrate_Mbps": 582
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 57.5,
+    "bitrate_Mbps": 482
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 81.1,
+    "bitrate_Mbps": 681
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 82.5,
+    "bitrate_Mbps": 692
+  },
+  {
+    "interval": 1.0300000000000011,
+    "transfer_MB": 93.1,
+    "bitrate_Mbps": 762
+  },
+  {
+    "interval": 0.9699999999999989,
+    "transfer_MB": 95.8,
+    "bitrate_Mbps": 825
+  },
+  {
+    "interval": 1.039999999999992,
+    "transfer_MB": 60.1,
+    "bitrate_Mbps": 486
+  },
+  {
+    "interval": 0.9800000000000182,
+    "transfer_MB": 70.5,
+    "bitrate_Mbps": 603
+  },
+  {
+    "interval": 0.9799999999999898,
+    "transfer_MB": 91.8,
+    "bitrate_Mbps": 784
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 70,
+    "bitrate_Mbps": 587
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 75.5,
+    "bitrate_Mbps": 633
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 95.9,
+    "bitrate_Mbps": 804
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 93.1,
+    "bitrate_Mbps": 781
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 89.6,
+    "bitrate_Mbps": 752
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 65.4,
+    "bitrate_Mbps": 548
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87.5,
+    "bitrate_Mbps": 734
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 90.9,
+    "bitrate_Mbps": 762
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 80,
+    "bitrate_Mbps": 671
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 93.6,
+    "bitrate_Mbps": 786
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 53.9,
+    "bitrate_Mbps": 452
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 69.6,
+    "bitrate_Mbps": 584
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 80.6,
+    "bitrate_Mbps": 676
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 89.6,
+    "bitrate_Mbps": 752
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 85.6,
+    "bitrate_Mbps": 719
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 85.9,
+    "bitrate_Mbps": 720
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 57.1,
+    "bitrate_Mbps": 479
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 100,
+    "bitrate_Mbps": 839
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 118,
+    "bitrate_Mbps": 980
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 109,
+    "bitrate_Mbps": 912
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 82.9,
+    "bitrate_Mbps": 696
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 110,
+    "bitrate_Mbps": 919
+  },
+  {
+    "interval": 1.0200000000000102,
+    "transfer_MB": 69.8,
+    "bitrate_Mbps": 576
+  },
+  {
+    "interval": 0.9799999999999898,
+    "transfer_MB": 96.8,
+    "bitrate_Mbps": 824
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 94.5,
+    "bitrate_Mbps": 793
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 90.5,
+    "bitrate_Mbps": 759
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 73.1,
+    "bitrate_Mbps": 613
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 86.8,
+    "bitrate_Mbps": 728
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 80.4,
+    "bitrate_Mbps": 674
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 99.4,
+    "bitrate_Mbps": 834
+  },
+  {
+    "interval": 1.0500000000000114,
+    "transfer_MB": 89,
+    "bitrate_Mbps": 714
+  },
+  {
+    "interval": 0.9499999999999886,
+    "transfer_MB": 66,
+    "bitrate_Mbps": 580
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 89.6,
+    "bitrate_Mbps": 747
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 82.9,
+    "bitrate_Mbps": 700
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 44.9,
+    "bitrate_Mbps": 374
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 77.2,
+    "bitrate_Mbps": 653
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 88.8,
+    "bitrate_Mbps": 744
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 97.6,
+    "bitrate_Mbps": 815
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 61.2,
+    "bitrate_Mbps": 516
+  },
+  {
+    "interval": 1.0699999999999932,
+    "transfer_MB": 89.8,
+    "bitrate_Mbps": 704
+  },
+  {
+    "interval": 0.9300000000000068,
+    "transfer_MB": 67.6,
+    "bitrate_Mbps": 609
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 66.9,
+    "bitrate_Mbps": 561
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 113,
+    "bitrate_Mbps": 947
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 105,
+    "bitrate_Mbps": 884
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 57.1,
+    "bitrate_Mbps": 479
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 62.4,
+    "bitrate_Mbps": 523
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 75.2,
+    "bitrate_Mbps": 630
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 92.4,
+    "bitrate_Mbps": 775
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 55.8,
+    "bitrate_Mbps": 468
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 57,
+    "bitrate_Mbps": 478
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 99.9,
+    "bitrate_Mbps": 838
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 78.4,
+    "bitrate_Mbps": 657
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 59.9,
+    "bitrate_Mbps": 502
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 69,
+    "bitrate_Mbps": 579
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 73.4,
+    "bitrate_Mbps": 616
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87.6,
+    "bitrate_Mbps": 734
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 84.4,
+    "bitrate_Mbps": 708
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 81.8,
+    "bitrate_Mbps": 686
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 64.1,
+    "bitrate_Mbps": 538
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 84.2,
+    "bitrate_Mbps": 707
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 80.5,
+    "bitrate_Mbps": 671
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 95.6,
+    "bitrate_Mbps": 807
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 89.4,
+    "bitrate_Mbps": 750
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 73.4,
+    "bitrate_Mbps": 615
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 89.8,
+    "bitrate_Mbps": 753
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 91.4,
+    "bitrate_Mbps": 767
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87.8,
+    "bitrate_Mbps": 735
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 70.4,
+    "bitrate_Mbps": 591
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 62,
+    "bitrate_Mbps": 520
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87.6,
+    "bitrate_Mbps": 734
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 77.4,
+    "bitrate_Mbps": 649
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 83.9,
+    "bitrate_Mbps": 705
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 101,
+    "bitrate_Mbps": 850
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87.9,
+    "bitrate_Mbps": 737
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 51.6,
+    "bitrate_Mbps": 433
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 84.4,
+    "bitrate_Mbps": 708
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 89.4,
+    "bitrate_Mbps": 750
+  },
+  {
+    "interval": 1.0199999999999818,
+    "transfer_MB": 65.5,
+    "bitrate_Mbps": 539
+  },
+  {
+    "interval": 0.9800000000000182,
+    "transfer_MB": 74,
+    "bitrate_Mbps": 633
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 65.2,
+    "bitrate_Mbps": 547
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87.1,
+    "bitrate_Mbps": 729
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 88,
+    "bitrate_Mbps": 738
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 86,
+    "bitrate_Mbps": 722
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 80.5,
+    "bitrate_Mbps": 676
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 108,
+    "bitrate_Mbps": 906
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 86.1,
+    "bitrate_Mbps": 722
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 96.9,
+    "bitrate_Mbps": 813
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 81.1,
+    "bitrate_Mbps": 681
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 68.5,
+    "bitrate_Mbps": 575
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 69.9,
+    "bitrate_Mbps": 586
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 84.9,
+    "bitrate_Mbps": 712
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 104,
+    "bitrate_Mbps": 872
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 62,
+    "bitrate_Mbps": 520
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 83.5,
+    "bitrate_Mbps": 700
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 88.1,
+    "bitrate_Mbps": 739
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 95.6,
+    "bitrate_Mbps": 802
+  },
+  {
+    "interval": 1.0699999999999932,
+    "transfer_MB": 40.6,
+    "bitrate_Mbps": 318
+  },
+  {
+    "interval": 0.9300000000000068,
+    "transfer_MB": 63,
+    "bitrate_Mbps": 570
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 80.4,
+    "bitrate_Mbps": 674
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 81.2,
+    "bitrate_Mbps": 681
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 106,
+    "bitrate_Mbps": 894
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87.1,
+    "bitrate_Mbps": 731
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 90.5,
+    "bitrate_Mbps": 759
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 63.9,
+    "bitrate_Mbps": 536
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 85.1,
+    "bitrate_Mbps": 714
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 77.4,
+    "bitrate_Mbps": 649
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 97.1,
+    "bitrate_Mbps": 814
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 67.6,
+    "bitrate_Mbps": 568
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 53.4,
+    "bitrate_Mbps": 448
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 58.6,
+    "bitrate_Mbps": 492
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 68.2,
+    "bitrate_Mbps": 572
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 88.4,
+    "bitrate_Mbps": 742
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 94.8,
+    "bitrate_Mbps": 795
+  },
+  {
+    "interval": 1.0699999999999932,
+    "transfer_MB": 58.5,
+    "bitrate_Mbps": 460
+  },
+  {
+    "interval": 0.9300000000000068,
+    "transfer_MB": 68.9,
+    "bitrate_Mbps": 619
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 62,
+    "bitrate_Mbps": 520
+  },
+  {
+    "interval": 1.089999999999975,
+    "transfer_MB": 70,
+    "bitrate_Mbps": 539
+  },
+  {
+    "interval": 0.910000000000025,
+    "transfer_MB": 55.9,
+    "bitrate_Mbps": 514
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 80.9,
+    "bitrate_Mbps": 679
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 95.1,
+    "bitrate_Mbps": 799
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 82.9,
+    "bitrate_Mbps": 695
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 84.2,
+    "bitrate_Mbps": 706
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 82.9,
+    "bitrate_Mbps": 696
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 95.1,
+    "bitrate_Mbps": 797
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 111,
+    "bitrate_Mbps": 930
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 115,
+    "bitrate_Mbps": 965
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 95.2,
+    "bitrate_Mbps": 799
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 94,
+    "bitrate_Mbps": 789
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 85.2,
+    "bitrate_Mbps": 714
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 84.6,
+    "bitrate_Mbps": 710
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 119,
+    "bitrate_Mbps": 997
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 104,
+    "bitrate_Mbps": 871
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 84.9,
+    "bitrate_Mbps": 712
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 88.9,
+    "bitrate_Mbps": 743
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 64,
+    "bitrate_Mbps": 539
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 69.9,
+    "bitrate_Mbps": 587
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 73,
+    "bitrate_Mbps": 612
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 73.4,
+    "bitrate_Mbps": 611
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 98.6,
+    "bitrate_Mbps": 834
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 84.8,
+    "bitrate_Mbps": 710
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 64.5,
+    "bitrate_Mbps": 541
+  },
+  {
+    "interval": 1.0500000000000114,
+    "transfer_MB": 83.6,
+    "bitrate_Mbps": 667
+  },
+  {
+    "interval": 0.9499999999999886,
+    "transfer_MB": 67.4,
+    "bitrate_Mbps": 595
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 85,
+    "bitrate_Mbps": 713
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 86.4,
+    "bitrate_Mbps": 725
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 93.1,
+    "bitrate_Mbps": 782
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 102,
+    "bitrate_Mbps": 853
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87.1,
+    "bitrate_Mbps": 731
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 94.1,
+    "bitrate_Mbps": 790
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 83.1,
+    "bitrate_Mbps": 696
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 92.6,
+    "bitrate_Mbps": 778
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 68.5,
+    "bitrate_Mbps": 574
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 75.5,
+    "bitrate_Mbps": 633
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 91.8,
+    "bitrate_Mbps": 771
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 67.4,
+    "bitrate_Mbps": 565
+  },
+  {
+    "interval": 1.0500000000000114,
+    "transfer_MB": 83.2,
+    "bitrate_Mbps": 667
+  },
+  {
+    "interval": 0.9599999999999795,
+    "transfer_MB": 77.4,
+    "bitrate_Mbps": 678
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 89.5,
+    "bitrate_Mbps": 754
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 82.9,
+    "bitrate_Mbps": 695
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 76.1,
+    "bitrate_Mbps": 639
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 83,
+    "bitrate_Mbps": 696
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 65.9,
+    "bitrate_Mbps": 553
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 56.2,
+    "bitrate_Mbps": 472
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 103,
+    "bitrate_Mbps": 864
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 81.1,
+    "bitrate_Mbps": 681
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 62.6,
+    "bitrate_Mbps": 525
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 80.8,
+    "bitrate_Mbps": 677
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 99.5,
+    "bitrate_Mbps": 835
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 72.2,
+    "bitrate_Mbps": 606
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 57.1,
+    "bitrate_Mbps": 479
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 97.4,
+    "bitrate_Mbps": 817
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 102,
+    "bitrate_Mbps": 860
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 64.6,
+    "bitrate_Mbps": 542
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 94.8,
+    "bitrate_Mbps": 795
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 69.6,
+    "bitrate_Mbps": 584
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 80,
+    "bitrate_Mbps": 671
+  },
+  {
+    "interval": 1.0299999999999727,
+    "transfer_MB": 54.1,
+    "bitrate_Mbps": 441
+  },
+  {
+    "interval": 0.9700000000000273,
+    "transfer_MB": 79.4,
+    "bitrate_Mbps": 687
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 106,
+    "bitrate_Mbps": 885
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 103,
+    "bitrate_Mbps": 863
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 67.4,
+    "bitrate_Mbps": 566
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87.6,
+    "bitrate_Mbps": 735
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 62,
+    "bitrate_Mbps": 520
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87,
+    "bitrate_Mbps": 730
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 85.2,
+    "bitrate_Mbps": 714
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 85.4,
+    "bitrate_Mbps": 717
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 89.4,
+    "bitrate_Mbps": 750
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 72.8,
+    "bitrate_Mbps": 610
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 98.2,
+    "bitrate_Mbps": 825
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 40.6,
+    "bitrate_Mbps": 341
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 94.4,
+    "bitrate_Mbps": 792
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 81.4,
+    "bitrate_Mbps": 683
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 93.8,
+    "bitrate_Mbps": 786
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 55.2,
+    "bitrate_Mbps": 463
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 96.8,
+    "bitrate_Mbps": 812
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 62.6,
+    "bitrate_Mbps": 525
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 85,
+    "bitrate_Mbps": 713
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 79.8,
+    "bitrate_Mbps": 669
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87.8,
+    "bitrate_Mbps": 736
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 77.5,
+    "bitrate_Mbps": 650
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 92.1,
+    "bitrate_Mbps": 773
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 73,
+    "bitrate_Mbps": 612
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 119,
+    "bitrate_Mbps": 996
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 88.9,
+    "bitrate_Mbps": 745
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 89.2,
+    "bitrate_Mbps": 749
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 96.5,
+    "bitrate_Mbps": 810
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 73.2,
+    "bitrate_Mbps": 610
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 88.8,
+    "bitrate_Mbps": 751
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 94.1,
+    "bitrate_Mbps": 789
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 95.6,
+    "bitrate_Mbps": 802
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 106,
+    "bitrate_Mbps": 892
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 86.9,
+    "bitrate_Mbps": 729
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 60.1,
+    "bitrate_Mbps": 504
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 77.6,
+    "bitrate_Mbps": 651
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 88.2,
+    "bitrate_Mbps": 740
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 74.5,
+    "bitrate_Mbps": 625
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 93.2,
+    "bitrate_Mbps": 782
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 73.9,
+    "bitrate_Mbps": 619
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 104,
+    "bitrate_Mbps": 871
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 83.8,
+    "bitrate_Mbps": 703
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 84.2,
+    "bitrate_Mbps": 707
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 86.8,
+    "bitrate_Mbps": 728
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 70.8,
+    "bitrate_Mbps": 594
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 97.9,
+    "bitrate_Mbps": 821
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 91.6,
+    "bitrate_Mbps": 769
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 96,
+    "bitrate_Mbps": 805
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 75.8,
+    "bitrate_Mbps": 635
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 65.5,
+    "bitrate_Mbps": 547
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 73.2,
+    "bitrate_Mbps": 618
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 71.9,
+    "bitrate_Mbps": 602
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 63,
+    "bitrate_Mbps": 528
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 88,
+    "bitrate_Mbps": 740
+  },
+  {
+    "interval": 1.0199999999999818,
+    "transfer_MB": 85.8,
+    "bitrate_Mbps": 705
+  },
+  {
+    "interval": 0.9800000000000182,
+    "transfer_MB": 77,
+    "bitrate_Mbps": 659
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 94.8,
+    "bitrate_Mbps": 793
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 66.2,
+    "bitrate_Mbps": 551
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 60.1,
+    "bitrate_Mbps": 509
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 80.4,
+    "bitrate_Mbps": 674
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 64.8,
+    "bitrate_Mbps": 543
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 99.9,
+    "bitrate_Mbps": 838
+  },
+  {
+    "interval": 1.0199999999999818,
+    "transfer_MB": 79.4,
+    "bitrate_Mbps": 654
+  },
+  {
+    "interval": 0.9800000000000182,
+    "transfer_MB": 93.9,
+    "bitrate_Mbps": 801
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 66.6,
+    "bitrate_Mbps": 559
+  },
+  {
+    "interval": 1.0500000000000114,
+    "transfer_MB": 73.4,
+    "bitrate_Mbps": 585
+  },
+  {
+    "interval": 0.9499999999999886,
+    "transfer_MB": 93.8,
+    "bitrate_Mbps": 829
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 71.6,
+    "bitrate_Mbps": 598
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 83,
+    "bitrate_Mbps": 699
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87.6,
+    "bitrate_Mbps": 735
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 71.2,
+    "bitrate_Mbps": 598
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 75.5,
+    "bitrate_Mbps": 633
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 88.9,
+    "bitrate_Mbps": 746
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 84.9,
+    "bitrate_Mbps": 712
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 69.9,
+    "bitrate_Mbps": 586
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 99.1,
+    "bitrate_Mbps": 831
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 99.1,
+    "bitrate_Mbps": 832
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 79.1,
+    "bitrate_Mbps": 657
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 77.4,
+    "bitrate_Mbps": 656
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 82.2,
+    "bitrate_Mbps": 690
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 81.6,
+    "bitrate_Mbps": 685
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 83.2,
+    "bitrate_Mbps": 698
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 84.5,
+    "bitrate_Mbps": 709
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 93.9,
+    "bitrate_Mbps": 787
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 69,
+    "bitrate_Mbps": 579
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 79.8,
+    "bitrate_Mbps": 669
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 77.2,
+    "bitrate_Mbps": 648
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 94.2,
+    "bitrate_Mbps": 791
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 82.4,
+    "bitrate_Mbps": 691
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 64.5,
+    "bitrate_Mbps": 537
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 58.4,
+    "bitrate_Mbps": 494
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 93,
+    "bitrate_Mbps": 780
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 60.2,
+    "bitrate_Mbps": 506
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 61.6,
+    "bitrate_Mbps": 516
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 61.9,
+    "bitrate_Mbps": 520
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 85.5,
+    "bitrate_Mbps": 717
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87.8,
+    "bitrate_Mbps": 736
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 85,
+    "bitrate_Mbps": 713
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 69.9,
+    "bitrate_Mbps": 586
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 93.5,
+    "bitrate_Mbps": 784
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 99.8,
+    "bitrate_Mbps": 837
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 86.2,
+    "bitrate_Mbps": 724
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 73.2,
+    "bitrate_Mbps": 615
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 58.4,
+    "bitrate_Mbps": 489
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 97.5,
+    "bitrate_Mbps": 817
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 51.4,
+    "bitrate_Mbps": 431
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 78.8,
+    "bitrate_Mbps": 655
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 77.2,
+    "bitrate_Mbps": 654
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 71.8,
+    "bitrate_Mbps": 599
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 57.6,
+    "bitrate_Mbps": 486
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 82.1,
+    "bitrate_Mbps": 689
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 120,
+    "bitrate_Mbps": 999
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 73.1,
+    "bitrate_Mbps": 619
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 88.8,
+    "bitrate_Mbps": 745
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 67.1,
+    "bitrate_Mbps": 563
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 76.2,
+    "bitrate_Mbps": 639
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 74.1,
+    "bitrate_Mbps": 622
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 64,
+    "bitrate_Mbps": 537
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 93.9,
+    "bitrate_Mbps": 788
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 83.1,
+    "bitrate_Mbps": 698
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 86.6,
+    "bitrate_Mbps": 726
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 67.1,
+    "bitrate_Mbps": 562
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 64.2,
+    "bitrate_Mbps": 540
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 86.4,
+    "bitrate_Mbps": 721
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 72.6,
+    "bitrate_Mbps": 613
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 83,
+    "bitrate_Mbps": 696
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 113,
+    "bitrate_Mbps": 950
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 112,
+    "bitrate_Mbps": 940
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 57,
+    "bitrate_Mbps": 478
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 51.9,
+    "bitrate_Mbps": 435
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 99.8,
+    "bitrate_Mbps": 837
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 92.9,
+    "bitrate_Mbps": 779
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 70,
+    "bitrate_Mbps": 587
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 68.4,
+    "bitrate_Mbps": 574
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 98.8,
+    "bitrate_Mbps": 828
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 87.8,
+    "bitrate_Mbps": 736
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 72.2,
+    "bitrate_Mbps": 606
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 96.1,
+    "bitrate_Mbps": 805
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 77.5,
+    "bitrate_Mbps": 652
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 72,
+    "bitrate_Mbps": 604
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 114,
+    "bitrate_Mbps": 952
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 81,
+    "bitrate_Mbps": 676
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 68.2,
+    "bitrate_Mbps": 576
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 83.8,
+    "bitrate_Mbps": 695
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 115,
+    "bitrate_Mbps": 976
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 86.4,
+    "bitrate_Mbps": 725
+  },
+  {
+    "interval": 1.07000000000005,
+    "transfer_MB": 50.8,
+    "bitrate_Mbps": 399
+  },
+  {
+    "interval": 0.92999999999995,
+    "transfer_MB": 77.1,
+    "bitrate_Mbps": 692
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 74.9,
+    "bitrate_Mbps": 630
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 79.6,
+    "bitrate_Mbps": 668
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 71.1,
+    "bitrate_Mbps": 593
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 61.5,
+    "bitrate_Mbps": 519
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 65.1,
+    "bitrate_Mbps": 546
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 70.2,
+    "bitrate_Mbps": 589
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 64.5,
+    "bitrate_Mbps": 541
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 90.8,
+    "bitrate_Mbps": 762
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 56.5,
+    "bitrate_Mbps": 474
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 106,
+    "bitrate_Mbps": 892
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 61.8,
+    "bitrate_Mbps": 518
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 72.1,
+    "bitrate_Mbps": 605
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 100,
+    "bitrate_Mbps": 842
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 99.1,
+    "bitrate_Mbps": 831
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 72.2,
+    "bitrate_Mbps": 606
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 81.2,
+    "bitrate_Mbps": 682
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 70.5,
+    "bitrate_Mbps": 591
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 64.6,
+    "bitrate_Mbps": 542
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 68.4,
+    "bitrate_Mbps": 574
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 59,
+    "bitrate_Mbps": 495
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 83.4,
+    "bitrate_Mbps": 699
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 78.4,
+    "bitrate_Mbps": 658
+  },
+  {
+    "interval": 1.1399999999999864,
+    "transfer_MB": 85.1,
+    "bitrate_Mbps": 627
+  },
+  {
+    "interval": 0.8600000000000136,
+    "transfer_MB": 65,
+    "bitrate_Mbps": 633
+  },
+  {
+    "interval": 1.009999999999991,
+    "transfer_MB": 97.1,
+    "bitrate_Mbps": 808
+  },
+  {
+    "interval": 0.9900000000000091,
+    "transfer_MB": 78.4,
+    "bitrate_Mbps": 663
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 61.1,
+    "bitrate_Mbps": 513
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 90,
+    "bitrate_Mbps": 755
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 75.1,
+    "bitrate_Mbps": 630
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 85.9,
+    "bitrate_Mbps": 719
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 89.4,
+    "bitrate_Mbps": 752
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 77.6,
+    "bitrate_Mbps": 651
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 69.6,
+    "bitrate_Mbps": 584
+  },
+  {
+    "interval": 1.0199999999999818,
+    "transfer_MB": 71.4,
+    "bitrate_Mbps": 588
+  },
+  {
+    "interval": 0.9800000000000182,
+    "transfer_MB": 77.8,
+    "bitrate_Mbps": 664
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 76.2,
+    "bitrate_Mbps": 640
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 56.1,
+    "bitrate_Mbps": 471
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 86.4,
+    "bitrate_Mbps": 724
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 73.2,
+    "bitrate_Mbps": 614
+  },
+  {
+    "interval": 1,
+    "transfer_MB": 73.2,
+    "bitrate_Mbps": 614
+  }
+]

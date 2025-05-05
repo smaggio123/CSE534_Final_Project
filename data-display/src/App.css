@@ -1,0 +1,7 @@
+.chart-display{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 10%;
+  margin: 2rem;
+}
