@@ -15,11 +15,11 @@ function App() {
     <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', marginTop: '1rem' }}>
       <div className='chart-display'>
         <Lineplot path={`SERVER_LOSS_${loss}%,DELAY_${delay},BW_${bandwidth}`} />
-        <OptionsToggle hasCategory={true} lossHandler={setLoss} delayHandler={setDelay} bandwidthHandler={setBandwidth} categoryHandler={setCategory} />
+        <OptionsToggle hasCategory={false} lossHandler={setLoss} delayHandler={setDelay} bandwidthHandler={setBandwidth} categoryHandler={setCategory} />
       </div>
       <div className='chart-display'>
         <Bargraph path={`SERVER_LOSS_${loss}%,DELAY_${delay},BW_${bandwidth}`} category={category} />
-        <OptionsToggle hasCategory={false} lossHandler={setLoss} delayHandler={setDelay} bandwidthHandler={setBandwidth} categoryHandler={setCategory} />
+        <OptionsToggle hasCategory={true} lossHandler={setLoss} delayHandler={setDelay} bandwidthHandler={setBandwidth} categoryHandler={setCategory} />
       </div>
       <div className='chart-display'>
         <Scatterplot path={`SERVER_LOSS_${loss}%,DELAY_${delay},BW_${bandwidth}`} category={category} />

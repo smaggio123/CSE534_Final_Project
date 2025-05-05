@@ -27,7 +27,7 @@ const OptionsToggle = ({ hasCategory, lossHandler, delayHandler, bandwidthHandle
     }
 
     useEffect(() => {
-        if(!hasCategory) {
+        if(hasCategory) {
             document.getElementById("category").style.display = 'none';
         }
     });
