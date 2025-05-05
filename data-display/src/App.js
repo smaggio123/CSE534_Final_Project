@@ -22,7 +22,7 @@ function App() {
         <OptionsToggle hasCategory={true} lossHandler={setLoss} delayHandler={setDelay} bandwidthHandler={setBandwidth} categoryHandler={setCategory} />
       </div>
       <div className='chart-display'>
-        <Scatterplot path={`SERVER_LOSS_${loss}%,DELAY_${delay},BW_${bandwidth}`} category={category} />
+        <Scatterplot path={`SERVER_LOSS_${loss}%,DELAY_${delay},BW_${bandwidth}`} />
         <OptionsToggle hasCategory={false} lossHandler={setLoss} delayHandler={setDelay} bandwidthHandler={setBandwidth} categoryHandler={setCategory} />
       </div>
     </div>
